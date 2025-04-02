@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello%20World!%20I'm%20Kimdoha!&animation=fadeIn&fontColor=ffffff&fontSize=50&fontAlign=50&textColor=ffffff&borderRadius=20&stroke=000000&strokeWidth=4" />
+</div>
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=203b9b&height=240&text=Hello%20World!%20I'm%20Kimdoha!&animation=blink&fontColor=ffffff&fontSize=50" />
     </div>
