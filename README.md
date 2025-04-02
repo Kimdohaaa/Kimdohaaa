@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=240&text=🎉%20Hello%20World!%20I'm%20Kimdoha!%20🎉&animation=blink&fontColor=ffffff&fontSize=50&fontAlign=50&textColor=ff69b4&borderRadius=20&stroke=ff6347&strokeWidth=5&shadow=10px%2010px%2040px%20#ff1493" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=203b9b&height=240&text=Hello%20World!%20I'm%20Kimdoha!&animation=blink&fontColor=ffffff&fontSize=50" />
 </div>
 
     <div align= "center">
