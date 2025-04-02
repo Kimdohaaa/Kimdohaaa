@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
+<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=203b9b&height=240&text=Hello%20World!%20I'm%20Kimdoha!&animation=blink&fontColor=ffffff&fontSize=50" />
-</div>
-
+    </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white">
@@ -44,8 +42,7 @@ Here are some ideas to get you started:
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    
-<div align="center">
+    <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div align="center" style="display: flex; justify-content: center; gap: 20px;">
         <img src="https://github-readme-stats.vercel.app/api?username=Kimdohaaa&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
