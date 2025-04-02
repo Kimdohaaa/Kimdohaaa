@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=240&text=Hello%20World!%20I'm%20Kimdoha&fontColor=ffffff&fontSize=50&fontAlign=50&textColor=ffffff&borderRadius=50&stroke=ffffff&strokeWidth=4&gradient=top%2C#a1c4fd%2C#c2e9fb" />
+    <img src="https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=240&text=Hello%20World!%20I'm%20Kimdoha&fontColor=ffffff&fontSize=50&fontAlign=50&textColor=ffffff&borderRadius=50&stroke=ffffff&strokeWidth=4&gradient=top%2C#3D69C0%2C#A6C8E7" />
 </div>
+
 
 
 
