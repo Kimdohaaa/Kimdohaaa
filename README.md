@@ -35,6 +35,7 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/MyBatis-1D3C2A?style=flat-square&logo=MyBatis&logoColor=white">
           <img src="https://img.shields.io/badge/JPA-0076B6?style=flat-square&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
     </div>
     </div>
     <div align= "center">
