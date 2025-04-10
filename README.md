@@ -46,7 +46,8 @@ Here are some ideas to get you started:
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-<div align="center"><table>
+<div align="center">
+     <table>
   <tr>
     <td valign="top" width="60%">
 
@@ -75,7 +76,7 @@ Here are some ideas to get you started:
 </td>
     <td valign="top" width="40%" align="center">
 
-### 🏅 Stats
+## 🏅 Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdohaaa&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
 
