@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-## 📁 Project Overview
-
 ### 💼 **Console Project - 잡코리아**
 > 구직자와 기업 모두 사용할 수 있는 구인구직 서비스  
 > 👨‍💻 개발인원: 3명  
@@ -72,6 +70,7 @@ Here are some ideas to get you started:
 > 이 결합된 그룹웨어 서비스  
 > 👨‍💻 개발인원: 4명  
 > 🗓 개발기간: 2025.03.09 ~ 2025.03.31
+---
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdohaaa&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
     </div>
 </div>
