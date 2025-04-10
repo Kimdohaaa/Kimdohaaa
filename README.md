@@ -51,6 +51,7 @@ Here are some ideas to get you started:
   <tr>
     <td valign="top" width="60%">
 
+## 🏅 Project
 ### 💼 **Console Project - 잡코리아**
 > 구직자와 기업 모두 사용할 수 있는 구인구직 서비스  
 > 👨‍💻 개발인원: 3명  
