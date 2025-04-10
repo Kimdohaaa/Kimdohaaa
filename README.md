@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ## 🏅 Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdohaaa&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Kimdohaaa&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
 </td>
   </tr>
 </table>
