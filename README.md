@@ -52,10 +52,11 @@ Here are some ideas to get you started:
     <td valign="top" width="60%">
 
 <h2 align="center">🏅 Project</h2>
+
 ### 💼 **Console Project - 잡코리아**
 > 구직자와 기업 모두 사용할 수 있는 구인구직 서비스  
 > 👨‍💻 개발인원: 3명  
-> 🗓 개발기간: 2025.01.23 ~ 2025.01.17  
+> 🗓 개발기간: 2025.01.23 ~ 2025.01.17
 > <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" /> [GitHub Repository](https://github.com/leeminjin0827/job-project)
 
 <br/>
