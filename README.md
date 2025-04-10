@@ -52,18 +52,19 @@ Here are some ideas to get you started:
     <td valign="top" width="60%">
 
 <h2 align="center">🏅 Project</h2>
-
 ### 💼 **Console Project - 잡코리아**
 > 구직자와 기업 모두 사용할 수 있는 구인구직 서비스  
 > 👨‍💻 개발인원: 3명  
-> 🗓 개발기간: 2025.01.23 ~ 2025.01.17
+> 🗓 개발기간: 2025.01.23 ~ 2025.01.17  
+> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" /> [GitHub Repository](https://github.com/leeminjin0827/job-project)
 
 <br/>
 
 ### 🧾 **JSP Project - 헬스대여 프로그램**
 > 고객의 시간대 별 대여 서비스와 관리자의 매출관리 서비스  
 > 👨‍💻 개발인원: 4명  
-> 🗓 개발기간: 2025.02.02 ~ 2025.02.21
+> 🗓 개발기간: 2025.02.02 ~ 2025.02.21  
+> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" /> [GitHub Repository](https://github.com/Kimdohaaa/rentalService)
 
 <br/>
 
@@ -73,8 +74,8 @@ Here are some ideas to get you started:
 > 사내 익명 게시판 기능  
 > 이 결합된 그룹웨어 서비스  
 > 👨‍💻 개발인원: 4명  
-> 🗓 개발기간: 2025.03.09 ~ 2025.03.31
-
+> 🗓 개발기간: 2025.03.09 ~ 2025.03.31  
+> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" /> [GitHub Repository](https://github.com/riwon-sys/workplatform)
 </td>
     <td valign="top" width="40%" align="center">
 
