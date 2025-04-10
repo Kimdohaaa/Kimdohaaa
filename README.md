@@ -52,6 +52,7 @@ Here are some ideas to get you started:
     <td valign="top" width="60%">
 
 <h2 align="center">🏅 Project</h2>
+
 ### 💼 **Console Project - 잡코리아**
 > 구직자와 기업 모두 사용할 수 있는 구인구직 서비스  
 > 👨‍💻 개발인원: 3명  
@@ -73,7 +74,8 @@ Here are some ideas to get you started:
 > 이 결합된 그룹웨어 서비스  
 > 👨‍💻 개발인원: 4명  
 > 🗓 개발기간: 2025.03.09 ~ 2025.03.31
-이 내용도 가운데 정렬</td>
+
+</td>
     <td valign="top" width="40%" align="center">
 
 ## 🏅 Stats
@@ -83,5 +85,6 @@ Here are some ideas to get you started:
 </td>
   </tr>
 </table>
+
 
 </div>
