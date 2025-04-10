@@ -52,29 +52,37 @@ Here are some ideas to get you started:
     <td valign="top" width="60%">
 
 <h2 align="center">🏅 Project</h2>
+<div align="center">
 
-### 💼 **Console Project - 잡코리아**
-> 구직자와 기업 모두 사용할 수 있는 구인구직 서비스  
-> 👨‍💻 개발인원: 3명  
-> 🗓 개발기간: 2025.01.23 ~ 2025.01.17
-
-<br/>
-
-### 🧾 **JSP Project - 헬스대여 프로그램**
-> 고객의 시간대 별 대여 서비스와 관리자의 매출관리 서비스  
-> 👨‍💻 개발인원: 4명  
-> 🗓 개발기간: 2025.02.02 ~ 2025.02.21
+<h3>💼 <strong>Console Project - 잡코리아</strong></h3>
+<blockquote>
+구직자와 기업 모두 사용할 수 있는 구인구직 서비스<br/>
+👨‍💻 개발인원: 3명<br/>
+🗓 개발기간: 2025.01.23 ~ 2025.01.17
+</blockquote>
 
 <br/>
 
-### 🏢 **Spring Project - 사내그룹웨어**
-> 사내메신저 기능  
-> 실시간 결재 기능  
-> 사내 익명 게시판 기능  
-> 이 결합된 그룹웨어 서비스  
-> 👨‍💻 개발인원: 4명  
-> 🗓 개발기간: 2025.03.09 ~ 2025.03.31
+<h3>🧾 <strong>JSP Project - 헬스대여 프로그램</strong></h3>
+<blockquote>
+고객의 시간대 별 대여 서비스와 관리자의 매출관리 서비스<br/>
+👨‍💻 개발인원: 4명<br/>
+🗓 개발기간: 2025.02.02 ~ 2025.02.21
+</blockquote>
 
+<br/>
+
+<h3>🏢 <strong>Spring Project - 사내그룹웨어</strong></h3>
+<blockquote>
+사내메신저 기능<br/>
+실시간 결재 기능<br/>
+사내 익명 게시판 기능<br/>
+이 결합된 그룹웨어 서비스<br/>
+👨‍💻 개발인원: 4명<br/>
+🗓 개발기간: 2025.03.09 ~ 2025.03.31
+</blockquote>
+
+</div>
 </td>
     <td valign="top" width="40%" align="center">
 
