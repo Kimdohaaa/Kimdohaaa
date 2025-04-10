@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 > 🗓 개발기간: 2025.03.09 ~ 2025.03.31  
 > <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" /> [GitHub Repository](https://github.com/riwon-sys/workplatform)
 </td>
+</br>
     <td valign="top" width="40%" align="center">
 
 ## 🏅 Stats
