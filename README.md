@@ -49,7 +49,29 @@ Here are some ideas to get you started:
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kimdohaaa&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
+## 📁 Project Overview
+
+### 💼 **Console Project - 잡코리아**
+> 구직자와 기업 모두 사용할 수 있는 구인구직 서비스  
+> 👨‍💻 개발인원: 3명  
+> 🗓 개발기간: 2025.01.23 ~ 2025.01.17
+
+---
+
+### 🧾 **JSP Project - 헬스대여 프로그램**
+> 고객의 시간대 별 대여 서비스와 관리자의 매출관리 서비스  
+> 👨‍💻 개발인원: 4명  
+> 🗓 개발기간: 2025.02.02 ~ 2025.02.21
+
+---
+
+### 🏢 **Spring Project - 사내그룹웨어**
+> - 사내메신저 기능  
+> - 실시간 결재 기능  
+> - 사내 익명 게시판  
+> 이 결합된 그룹웨어 서비스  
+> 👨‍💻 개발인원: 4명  
+> 🗓 개발기간: 2025.03.09 ~ 2025.03.31
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimdohaaa&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
     </div>
 </div>
